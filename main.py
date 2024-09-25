@@ -72,6 +72,7 @@ class Blockchain():
                 return False
         return True
 
+
 def main():
     blockchain = Blockchain()
     database = ["hello world", "what's up", "hello", "bye"]
