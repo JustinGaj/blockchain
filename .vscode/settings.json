@@ -10,7 +10,7 @@
             "port": 3306,
             "driver": "MySQL",
             "name": "demoConnect",
-            "database": "mysql",
+            "database": "crypto",
             "username": "just",
             "password": "password",
             "connectionTimeout": 600
