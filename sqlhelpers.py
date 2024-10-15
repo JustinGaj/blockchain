@@ -1,4 +1,5 @@
 from app import mysql, session
+from blockchain import Block, Blockchain
 
 class InvalidTransactionException(Exception): pass
 class InsufficientFundsException(Exception): pass
